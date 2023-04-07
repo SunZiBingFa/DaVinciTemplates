@@ -1,0 +1,23 @@
+音乐播放器样式歌词动画模板
+
+0.
+注意：字体缺失可能会导致黑屏，可安装字体文件或修改字体
+
+该模板使用的字体是：思源黑体 VF
+字体下载链接 https://github.com/adobe-fonts/source-han-sans/releases
+
+
+1.
+安装：
+打开达芬奇，双击.drfx文件，点击安装
+
+剪辑页    特效库 >> 工具箱 >> 特效 >> Fusion特效 >> Music Player
+Fusion页  特效库 >> Effects >> Templates >> Edit >> Effects >> Music Player
+
+2.
+卸载：
+在Fusion页，点击 特效库 >> Effects >> Templates 右上方的三个点，点击Show Floder 删除资源库中对应的drfx文件即可
+
+
+
+Create by @蛊灵精(bilibili.com)

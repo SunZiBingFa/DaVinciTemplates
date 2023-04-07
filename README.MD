@@ -1,0 +1,1 @@
+Share DaVinci Resolve Templates
