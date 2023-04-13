@@ -2,10 +2,8 @@
 
 0.
 注意：字体缺失可能会导致黑屏，可安装字体文件或修改字体
-
 该模板使用的字体是：思源黑体 VF
 字体下载链接 https://github.com/adobe-fonts/source-han-sans/releases
-
 
 1.
 安装：
@@ -18,6 +16,8 @@ Fusion页  特效库 >> Effects >> Templates >> Edit >> Effects >> Music Player
 卸载：
 在Fusion页，点击 特效库 >> Effects >> Templates 右上方的三个点，点击Show Floder 删除资源库中对应的drfx文件即可
 
-
+3.
+更新日志
+· 适配了各种分辨率 // 20230413
 
 Created by @蛊灵精(bilibili.com)
