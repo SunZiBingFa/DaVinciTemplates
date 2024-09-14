@@ -14,5 +14,4 @@
 - 思源黑体 VF：https://github.com/adobe-fonts/source-han-sans/releases
 
 
-<br>
-<font color="gray"> Created by @蛊灵精(bilibili) </font>
+Created by @蛊灵精(bilibili)
