@@ -3,6 +3,7 @@
 
 1. Music Player ---- 音乐播放器动画样式 （需安装字体： 思源黑体-VF）
 2. Progress Bar ---- 进度条
+3. InnerShaodw  ---- 内阴影样式
 
 ## 安装
 打开达芬奇，双击.drfx文件，点击安装
